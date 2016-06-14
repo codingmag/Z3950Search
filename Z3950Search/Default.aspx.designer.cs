@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Z3950Sample {
+namespace Z3950Search {
     
     
     public partial class Default {
